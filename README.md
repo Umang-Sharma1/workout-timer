@@ -1,3 +1,8 @@
+This a application to track your workout time. It helps you to manage your workout and is beneficial in managing your time related to workout.
+
+<img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1717214750/Screenshot_2024-06-01_093524_c0dmjg.png"/>
+<a href = "https://workoutmanager9760.netlify.app/">Demo </a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
